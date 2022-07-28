@@ -1,0 +1,28 @@
+  0%|                                                                                                                       | 0/50 [00:00<?, ?it/s]
+C:\Users\codin\AppData\Local\Programs\Python\Python39\lib\site-packages\torch\nn\functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  ..\c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+EPOCH : 0 \ Train Loss : 0.425 \ Test Loss: 0.264
+---------- SAVING CHECKPOINT ----------
+  2%|██▏                                                                                                         | 1/50 [08:53<7:15:26, 533.20s/it]
+EPOCH : 1 \ Train Loss : 0.230 \ Test Loss: 0.210
+---------- 20.57 % IMPROVEMENT ----------
+---------- SAVING CHECKPOINT ----------
+  4%|████▎                                                                                                       | 2/50 [17:32<6:59:56, 524.92s/it]
+EPOCH : 2 \ Train Loss : 0.194 \ Test Loss: 0.177
+---------- 15.92 % IMPROVEMENT ----------
+---------- SAVING CHECKPOINT ----------
+  6%|██████▍                                                                                                     | 3/50 [25:58<6:44:35, 516.49s/it]
+EPOCH : 3 \ Train Loss : 0.168 \ Test Loss: 0.188
+  8%|████████▋                                                                                                   | 4/50 [37:48<7:34:22, 592.66s/it]
+EPOCH : 4 \ Train Loss : 0.143 \ Test Loss: 0.147
+---------- 16.77 % IMPROVEMENT ----------
+---------- SAVING CHECKPOINT ----------
+ 10%|██████████▊                                                                                                 | 5/50 [47:10<7:16:21, 581.82s/it]
+EPOCH : 5 \ Train Loss : 0.137 \ Test Loss: 0.135
+---------- 8.19 % IMPROVEMENT ----------
+---------- SAVING CHECKPOINT ----------
+ 12%|████████████▉                                                                                               | 6/50 [59:18<7:42:55, 631.27s/it]
+EPOCH : 6 \ Train Loss : 0.102 \ Test Loss: 0.094
+---------- 30.67 % IMPROVEMENT ----------
+---------- SAVING CHECKPOINT ----------
+ 14%|██████████████▊                                                                                           | 7/50 [1:09:57<7:34:17, 633.89s/it]
