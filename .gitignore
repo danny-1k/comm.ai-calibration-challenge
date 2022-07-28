@@ -5,3 +5,4 @@ stats.json
 test
 .ipynb_checkpoints
 model.pt
+test.py
