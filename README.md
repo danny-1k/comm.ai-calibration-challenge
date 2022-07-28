@@ -1,4 +1,4 @@
-## [Check out the challenge's github repo](https://github.com/commaai/openpilot/tree/master/common/transformations)
+## [Check out the challenge's github repo](https://github.com/commaai/calib_challenge)
 
 -------
 
