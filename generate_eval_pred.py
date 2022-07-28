@@ -31,7 +31,7 @@ stats = json.load(open('stats.json','r'))
 mean = np.array([stats['pitch']['mean'], stats['yaw']['mean']])
 std = np.array([stats['pitch']['std'], stats['yaw']['std']])
 
-for i in tqdm(range(5)):
+for i in tqdm(range(5,10) if data_folder =='unlabeled' else range(5)):
 
     predictions = []
 
