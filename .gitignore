@@ -7,3 +7,4 @@ test
 model.pt
 test.py
 __pycache__
+view_vid.py
